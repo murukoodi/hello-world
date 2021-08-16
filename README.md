@@ -1,4 +1,4 @@
 # hello-world
-My first repository
+My first repository testing
 
-Newbie front-end dev learning the ropes..
+
